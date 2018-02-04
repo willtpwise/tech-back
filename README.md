@@ -37,7 +37,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run start
 ```
-First clone, install and run the [front end](https://github.com/willtpwise/tech-front)
+Now clone, install and run the [front end](https://github.com/willtpwise/tech-front)
 
 ## API Requests
 This repo exposes a RESTful API. At the stage, it offers one endpoint.
